@@ -1,10 +1,12 @@
-title: rpi-connect-pir-motion-sensor
+title: Connect a PIR motion sensor
 hero_image: images/banner.png
-subtitle: rpi-connect-pir-motion-sensor subtitle
-description: rpi-connect-pir-motion-sensor description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Connect a PIR motion sensor to your Raspberry Pi
+original_url:
 theme: cc-prototype
-published: false
+listed: false
+ingredient: true
+copyedit: false
+interets: ""
+technologies: "raspberry pi, physical computing, electronics"
 steps:
   - title: Connecting a PIR sensor
-    duration: 60
