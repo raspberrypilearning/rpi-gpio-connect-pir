@@ -1,0 +1,12 @@
+title: Connect a PIR motion sensor
+hero_image: images/banner.png
+description: Connect a PIR motion sensor to your Raspberry Pi
+original_url:
+theme: cc-prototype
+listed: false
+ingredient: true
+copyedit: true
+interets: ""
+technologies: "raspberry pi, physical computing, electronics"
+steps:
+  - title: Connecting a PIR sensor
